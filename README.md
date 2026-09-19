@@ -1,4 +1,4 @@
-# mtc-primavera
+# biscoito-da-sorte
 
 ## Project setup
 ```
