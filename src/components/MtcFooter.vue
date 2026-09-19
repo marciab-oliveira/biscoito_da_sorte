@@ -2,7 +2,12 @@
   <footer class="footer">
     <div class="divider"></div>
     <p class="project-name">Projeto de Extensão Acadêmica</p>
-    <p class="institution">Faculdade EBRAMEC - Alunos do 5º Semestre Graduação em Acupuntura </p>
+    <p class="institution">
+      <a href="https://ebramec.edu.br" target="_blank" rel="noopener noreferrer">
+        Faculdade EBRAMEC
+       </a> 
+       - Alunos do 5º Semestre Graduação em Acupuntura
+    </p>
     <p class="copyright">&copy; 2026 — Idealização & Desenvolvimento Digital: {{ autorDigital }}</p>
   </footer>
 </template>
