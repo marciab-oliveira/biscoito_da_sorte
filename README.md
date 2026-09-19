@@ -1,4 +1,4 @@
-# biscoito-da-sorte
+# Biscoito da sorte
 
 ## Project setup
 ```
